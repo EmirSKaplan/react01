@@ -1,3 +1,3 @@
 #React başlangıç projesi
 
-ilk react (Emir Sultan Kaplan)
+ilk react (Emir Sultan Kaplan) güncellendi
